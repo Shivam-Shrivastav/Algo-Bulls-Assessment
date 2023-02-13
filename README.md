@@ -1,6 +1,6 @@
 # Algo-Bulls-Assessment
 ### Step 1: Clone the repo using:
-`git clone `
+`git clone https://github.com/Shivam-Shrivastav/Algo-Bulls-Assessment.git`
 
 ### Step 2: Install all the required library in the requirements.txt file using:
  `pip install -r /path/to/requirements.txt`
